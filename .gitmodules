@@ -1,0 +1,4 @@
+[submodule "external/dbn"]
+	path = external/dbn
+	url = https://github.com/s-brez/dbn.git
+	branch = dbn-ffi
